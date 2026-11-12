@@ -134,7 +134,7 @@ PayPilot AI separates AI recommendations from financial authorization.
 
 ### 1. Clone the repository
 
-    git clone YOUR_GITHUB_REPOSITORY_URL
+    git clone https://github.com/YashRaj-IITM/PayPilot-AI.git
     cd PayPilot-AI
 
 ### 2. Configure environment variables
